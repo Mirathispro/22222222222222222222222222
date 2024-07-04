@@ -1,0 +1,2568 @@
+.logoChild {
+  width: 93px;
+  position: relative;
+  height: 93px;
+  object-fit: cover;
+}
+.hihami {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-left: -5px;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  width: 8px;
+  height: 43px;
+}
+.groupItem {
+  top: 10px;
+  left: 0;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(89, 145, 255, 0.8) 30%,
+    rgba(53, 87, 153, 0.6)
+  );
+  width: 4px;
+  height: 22px;
+}
+.vectorParent {
+  width: 14px;
+  position: relative;
+  height: 43px;
+}
+.connectWallet {
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.btn {
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(89, 145, 255, 0.8) 30%,
+    rgba(53, 87, 153, 0.6)
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-base);
+}
+.connectWalletBtnChild {
+  width: 14px;
+  position: relative;
+  height: 43px;
+  object-fit: contain;
+}
+.connectWalletBtn {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.userProfileIcon {
+  width: 40px;
+  position: relative;
+  border-radius: 50%;
+  height: 40px;
+  object-fit: cover;
+}
+.connectWalletBtnParent,
+.headingPanel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.connectWalletBtnParent {
+  gap: var(--gap-11xl);
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.headingPanel {
+  gap: 1113px;
+}
+.aiWearable {
+  margin: 0;
+}
+.exploreCreateAndContainer {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+}
+.exploreCreateAndSellYour {
+  width: 713px;
+  position: relative;
+  height: 243px;
+}
+.shihamiIsThe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.shihamiIsTheWorldsFirstA {
+  width: 701px;
+  position: relative;
+  height: 30px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-lato);
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.groupInner {
+  position: absolute;
+  height: 100%;
+  width: 57.07%;
+  top: 0;
+  right: 0.12%;
+  bottom: 0;
+  left: 42.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleDiv {
+  position: absolute;
+  height: 64.08%;
+  width: 28.8%;
+  top: 18.87%;
+  right: 71.2%;
+  bottom: 17.05%;
+  left: 0;
+  background-color: var(--color-gray-100);
+}
+.vectorGroup {
+  height: 99.43%;
+  width: 7.08%;
+  right: 92.92%;
+  bottom: 0.57%;
+  left: 0;
+}
+.btn1,
+.preSaleChild,
+.vectorGroup {
+  position: absolute;
+  top: 0;
+}
+.btn1 {
+  height: 100%;
+  width: 86.15%;
+  right: 6.92%;
+  bottom: 0;
+  left: 6.92%;
+  background-color: var(--color-gray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-10xl);
+  box-sizing: border-box;
+}
+.preSaleChild {
+  height: 99.43%;
+  width: 7.08%;
+  right: -0.01%;
+  bottom: 0.57%;
+  left: 92.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.preSale {
+  width: 260px;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  height: 70px;
+}
+.groupChild1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-dodgerblue-100);
+}
+.createChild,
+.createInner {
+  position: absolute;
+  height: 60.43%;
+  width: 2.05%;
+  top: 20.75%;
+  right: 97.95%;
+  bottom: 18.82%;
+  left: 0;
+}
+.createChild {
+  height: 100%;
+  width: 95.89%;
+  top: 0;
+  right: 1.87%;
+  bottom: 0;
+  left: 2.23%;
+  background-color: var(--color-darkmagenta-200);
+  border: 1px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.create1 {
+  position: absolute;
+  top: 30%;
+  left: 29.02%;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.createItem {
+  position: absolute;
+  height: 60.43%;
+  width: 2.05%;
+  top: 20.75%;
+  right: 0;
+  bottom: 18.82%;
+  left: 97.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.create {
+  width: 224px;
+  position: relative;
+  height: 70px;
+  color: var(--color-white);
+}
+.cta,
+.leftSide {
+  display: flex;
+  align-items: flex-start;
+}
+.cta {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+}
+.leftSide {
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 120px;
+}
+.center,
+.upperSection {
+  display: flex;
+  justify-content: flex-start;
+}
+.center {
+  flex-direction: row;
+  align-items: flex-end;
+  font-size: var(--display-text-header-big-size);
+}
+.upperSection {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 100px;
+}
+.milkyWayIcon {
+  width: 1918.5px;
+  position: relative;
+  height: 316.5px;
+  display: none;
+}
+.heroSection,
+.milkyWay {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.milkyWay {
+  width: 1920px;
+  height: 316.5px;
+  align-items: flex-start;
+  margin-top: -50px;
+}
+.heroSection {
+  position: absolute;
+  top: 38px;
+  left: -26px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  width: 1933px;
+  height: 982px;
+  align-items: center;
+}
+.utilityCreationBuysellThr {
+  position: absolute;
+  top: 0;
+  left: 546px;
+  width: 1603px;
+  height: 1000px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.backgroundIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.influencers,
+.whitePaper {
+  position: relative;
+  text-transform: uppercase;
+}
+.whitePaper {
+  font-weight: 600;
+}
+.influencers {
+  width: 118px;
+  display: none;
+}
+.navBar,
+.navigationBar {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.navigationBar {
+  height: 28.75%;
+  width: 76.49%;
+  top: 35%;
+  right: 11.75%;
+  bottom: 36.25%;
+  left: 11.75%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.navBar {
+  top: 35px;
+  left: 701px;
+  width: 604px;
+  height: 80px;
+  font-size: var(--font-size-lg);
+}
+.fabUpChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  backdrop-filter: blur(20px);
+  border-radius: 50%;
+  background: linear-gradient(
+    147.75deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0.05)
+  );
+}
+.arrowChild {
+  position: absolute;
+  height: 102%;
+  width: 16%;
+  top: 0;
+  right: 81.85%;
+  bottom: -2%;
+  left: 2.15%;
+  border-right: 2px solid var(--color-white);
+  box-sizing: border-box;
+}
+.arrowItem {
+  height: 35%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 65%;
+  left: 0;
+  border-radius: var(--br-12xs-3);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow,
+.arrowItem,
+.fabUp {
+  position: absolute;
+}
+.arrow {
+  height: 67.57%;
+  width: 16.89%;
+  top: 14.86%;
+  right: 34.46%;
+  bottom: 17.57%;
+  left: 48.65%;
+}
+.fabUp {
+  top: 876px;
+  left: 1793px;
+  width: 74px;
+  height: 74px;
+}
+.div,
+.maskGroupIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.div {
+  top: calc(50% - 4698.5px);
+  left: calc(50% - 934.5px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-black);
+  width: 1869px;
+  height: 985px;
+  font-size: 35px;
+}
+.maskGroupIcon {
+  height: 96.56%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 3.44%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupIcon,
+.groupIcon1,
+.groupIcon2,
+.groupIcon3,
+.groupIcon4 {
+  position: absolute;
+  height: 1.01%;
+  width: 0.69%;
+  top: 56.76%;
+  right: 41.45%;
+  bottom: 42.23%;
+  left: 57.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon1,
+.groupIcon2,
+.groupIcon3,
+.groupIcon4 {
+  height: 1.15%;
+  width: 0.13%;
+  top: 56.62%;
+  right: 41.24%;
+  left: 58.63%;
+}
+.groupIcon2,
+.groupIcon3,
+.groupIcon4 {
+  height: 0.87%;
+  width: 0.67%;
+  top: 56.92%;
+  right: 40.5%;
+  bottom: 42.21%;
+  left: 58.83%;
+}
+.groupIcon3,
+.groupIcon4 {
+  height: 1.11%;
+  width: 0.51%;
+  top: 56.68%;
+  right: 39.92%;
+  left: 59.58%;
+}
+.groupIcon4 {
+  height: 1.17%;
+  width: 0.49%;
+  top: 56.61%;
+  right: 39.36%;
+  bottom: 42.22%;
+  left: 60.15%;
+}
+.groupIcon10,
+.groupIcon11,
+.groupIcon5,
+.groupIcon6,
+.groupIcon7,
+.groupIcon8,
+.groupIcon9 {
+  position: absolute;
+  height: 0.87%;
+  width: 0.68%;
+  top: 56.92%;
+  right: 38.62%;
+  bottom: 42.21%;
+  left: 60.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon10,
+.groupIcon11,
+.groupIcon6,
+.groupIcon7,
+.groupIcon8,
+.groupIcon9 {
+  height: 0.86%;
+  width: 0.53%;
+  right: 38.01%;
+  bottom: 42.23%;
+  left: 61.46%;
+}
+.groupIcon10,
+.groupIcon11,
+.groupIcon7,
+.groupIcon8,
+.groupIcon9 {
+  width: 1.07%;
+  right: 36.87%;
+  left: 62.06%;
+}
+.groupIcon10,
+.groupIcon11,
+.groupIcon8,
+.groupIcon9 {
+  height: 0.87%;
+  width: 0.68%;
+  right: 35.71%;
+  bottom: 42.21%;
+  left: 63.61%;
+}
+.groupIcon10,
+.groupIcon11,
+.groupIcon9 {
+  right: 34.96%;
+  left: 64.35%;
+}
+.groupIcon10,
+.groupIcon11 {
+  height: 0.86%;
+  width: 0.69%;
+  right: 34.2%;
+  bottom: 42.23%;
+  left: 65.11%;
+}
+.groupIcon11 {
+  height: 1.11%;
+  width: 0.51%;
+  top: 56.68%;
+  right: 33.62%;
+  bottom: 42.21%;
+  left: 65.88%;
+}
+.groupIcon12,
+.groupIcon13,
+.groupIcon14,
+.groupIcon15,
+.groupIcon16,
+.groupIcon17 {
+  position: absolute;
+  height: 0.86%;
+  width: 0.53%;
+  top: 56.92%;
+  right: 33.01%;
+  bottom: 42.23%;
+  left: 66.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon13,
+.groupIcon14,
+.groupIcon15,
+.groupIcon16,
+.groupIcon17 {
+  height: 0.87%;
+  width: 0.68%;
+  right: 32.26%;
+  bottom: 42.21%;
+  left: 67.05%;
+}
+.groupIcon14,
+.groupIcon15,
+.groupIcon16,
+.groupIcon17 {
+  height: 1.15%;
+  width: 0.13%;
+  top: 56.62%;
+  right: 32.06%;
+  bottom: 42.23%;
+  left: 67.81%;
+}
+.groupIcon15,
+.groupIcon16,
+.groupIcon17 {
+  right: 31.85%;
+  left: 68.02%;
+}
+.groupIcon16,
+.groupIcon17 {
+  height: 0.87%;
+  width: 0.68%;
+  top: 56.92%;
+  right: 31.09%;
+  bottom: 42.21%;
+  left: 68.23%;
+}
+.groupIcon17 {
+  height: 0.86%;
+  width: 0.53%;
+  right: 30.49%;
+  bottom: 42.23%;
+  left: 68.98%;
+}
+.groupIcon18,
+.groupIcon19,
+.groupIcon20,
+.groupIcon21,
+.groupIcon22 {
+  position: absolute;
+  height: 0.87%;
+  width: 0.68%;
+  top: 58.49%;
+  right: 41.46%;
+  bottom: 40.63%;
+  left: 57.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon19,
+.groupIcon20,
+.groupIcon21,
+.groupIcon22 {
+  height: 0.86%;
+  width: 0.69%;
+  right: 40.69%;
+  bottom: 40.65%;
+  left: 58.62%;
+}
+.groupIcon20,
+.groupIcon21,
+.groupIcon22 {
+  height: 1.22%;
+  right: 39.53%;
+  bottom: 40.29%;
+  left: 59.79%;
+}
+.groupIcon21,
+.groupIcon22 {
+  height: 1.15%;
+  top: 58.2%;
+  right: 38.76%;
+  bottom: 40.65%;
+  left: 60.55%;
+}
+.groupIcon22 {
+  height: 0.87%;
+  width: 0.68%;
+  top: 58.49%;
+  right: 38.01%;
+  bottom: 40.63%;
+  left: 61.31%;
+}
+.groupIcon23,
+.groupIcon24,
+.groupIcon25,
+.groupIcon26,
+.groupIcon27,
+.groupIcon28 {
+  position: absolute;
+  height: 0.86%;
+  width: 0.69%;
+  top: 58.49%;
+  right: 37.24%;
+  bottom: 40.65%;
+  left: 62.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon24,
+.groupIcon25,
+.groupIcon26,
+.groupIcon27,
+.groupIcon28 {
+  height: 0.87%;
+  width: 0.68%;
+  right: 36.49%;
+  bottom: 40.63%;
+  left: 62.83%;
+}
+.groupIcon25,
+.groupIcon26,
+.groupIcon27,
+.groupIcon28 {
+  height: 1.15%;
+  width: 0.93%;
+  top: 27.26%;
+  right: 57.57%;
+  bottom: 71.58%;
+  left: 41.5%;
+}
+.groupIcon26,
+.groupIcon27,
+.groupIcon28 {
+  width: 0.15%;
+  right: 57.34%;
+  left: 42.51%;
+}
+.groupIcon27,
+.groupIcon28 {
+  width: 0.93%;
+  right: 55.87%;
+  left: 43.2%;
+}
+.groupIcon28 {
+  height: 0.97%;
+  width: 0.81%;
+  top: 27.45%;
+  right: 54.99%;
+  left: 44.2%;
+}
+.groupIcon29,
+.groupIcon30,
+.groupIcon31,
+.groupIcon32,
+.groupIcon33,
+.groupIcon34 {
+  position: absolute;
+  height: 1%;
+  width: 0.77%;
+  top: 27.44%;
+  right: 54.15%;
+  bottom: 71.56%;
+  left: 45.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon30,
+.groupIcon31,
+.groupIcon32,
+.groupIcon33,
+.groupIcon34 {
+  height: 1.27%;
+  width: 0.58%;
+  top: 27.17%;
+  right: 53.48%;
+  left: 45.94%;
+}
+.groupIcon31,
+.groupIcon32,
+.groupIcon33,
+.groupIcon34 {
+  height: 1%;
+  width: 0.77%;
+  top: 27.44%;
+  right: 52.64%;
+  left: 46.59%;
+}
+.groupIcon32,
+.groupIcon33,
+.groupIcon34 {
+  height: 0.98%;
+  width: 0.61%;
+  right: 51.94%;
+  bottom: 71.58%;
+  left: 47.45%;
+}
+.groupIcon33,
+.groupIcon34 {
+  height: 1.19%;
+  width: 0.86%;
+  top: 27.25%;
+  right: 50.55%;
+  bottom: 71.56%;
+  left: 48.59%;
+}
+.groupIcon34 {
+  height: 1.38%;
+  width: 0.83%;
+  top: 27.45%;
+  right: 49.65%;
+  bottom: 71.17%;
+  left: 49.52%;
+}
+.clipPathGroup,
+.groupIcon35,
+.groupIcon36,
+.groupIcon37,
+.groupIcon38 {
+  position: absolute;
+  height: 1%;
+  width: 0.78%;
+  top: 27.44%;
+  right: 48.8%;
+  bottom: 71.56%;
+  left: 50.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.clipPathGroup,
+.groupIcon36,
+.groupIcon37,
+.groupIcon38 {
+  height: 1.27%;
+  width: 0.58%;
+  top: 27.17%;
+  right: 48.14%;
+  left: 51.28%;
+}
+.clipPathGroup,
+.groupIcon37,
+.groupIcon38 {
+  height: 1%;
+  width: 0.78%;
+  top: 27.44%;
+  right: 47.29%;
+  left: 51.94%;
+}
+.clipPathGroup,
+.groupIcon38 {
+  height: 0.98%;
+  width: 1.22%;
+  right: 45.98%;
+  bottom: 71.58%;
+  left: 52.8%;
+}
+.clipPathGroup {
+  height: 23.24%;
+  width: 10.97%;
+  top: 27.22%;
+  right: 58.48%;
+  bottom: 49.53%;
+  left: 30.55%;
+  object-fit: cover;
+}
+.clipPathGroup1 {
+  height: 27.24%;
+  width: 13.42%;
+  top: 40.74%;
+  right: 44.08%;
+  bottom: 32.02%;
+  left: 42.5%;
+  object-fit: cover;
+}
+.clipPathGroup1,
+.clipPathGroup2,
+.groupIcon39,
+.groupIcon40 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.clipPathGroup2 {
+  height: 39.95%;
+  width: 13.01%;
+  top: 15.31%;
+  right: 31.39%;
+  bottom: 44.74%;
+  left: 55.59%;
+  object-fit: cover;
+}
+.groupIcon39,
+.groupIcon40 {
+  height: 0.81%;
+  width: 0.11%;
+  top: 29.48%;
+  right: 58.31%;
+  bottom: 69.71%;
+  left: 41.58%;
+}
+.groupIcon40 {
+  height: 0.68%;
+  width: 0.55%;
+  top: 29.6%;
+  right: 57.7%;
+  left: 41.75%;
+}
+.groupIcon41,
+.groupIcon42,
+.groupIcon43,
+.groupIcon44,
+.groupIcon45 {
+  position: absolute;
+  height: 0.89%;
+  width: 0.41%;
+  top: 29.41%;
+  right: 57.23%;
+  bottom: 69.7%;
+  left: 42.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon42,
+.groupIcon43,
+.groupIcon44,
+.groupIcon45 {
+  height: 0.7%;
+  width: 0.54%;
+  top: 29.6%;
+  right: 56.63%;
+  bottom: 69.69%;
+  left: 42.82%;
+}
+.groupIcon43,
+.groupIcon44,
+.groupIcon45 {
+  height: 0.68%;
+  width: 0.42%;
+  right: 56.15%;
+  bottom: 69.71%;
+  left: 43.43%;
+}
+.groupIcon44,
+.groupIcon45 {
+  height: 0.7%;
+  width: 0.54%;
+  right: 55.56%;
+  bottom: 69.69%;
+  left: 43.9%;
+}
+.groupIcon45 {
+  right: 54.96%;
+  left: 44.5%;
+}
+.groupIcon46,
+.groupIcon47,
+.groupIcon48,
+.groupIcon49,
+.groupIcon50 {
+  position: absolute;
+  height: 0.89%;
+  width: 0.41%;
+  top: 29.41%;
+  right: 54.5%;
+  bottom: 69.7%;
+  left: 45.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon47,
+.groupIcon48,
+.groupIcon49,
+.groupIcon50 {
+  height: 0.92%;
+  width: 0.1%;
+  top: 29.37%;
+  right: 54.33%;
+  bottom: 69.71%;
+  left: 45.56%;
+}
+.groupIcon48,
+.groupIcon49,
+.groupIcon50 {
+  height: 0.67%;
+  width: 0.56%;
+  top: 29.62%;
+  right: 53.71%;
+  left: 45.72%;
+}
+.groupIcon49,
+.groupIcon50 {
+  height: 0.7%;
+  width: 0.54%;
+  top: 29.6%;
+  right: 53.11%;
+  bottom: 69.69%;
+  left: 46.34%;
+}
+.groupIcon50 {
+  height: 0.83%;
+  width: 0.6%;
+  top: 29.47%;
+  right: 52.14%;
+  bottom: 69.7%;
+  left: 47.26%;
+}
+.groupIcon51,
+.groupIcon52,
+.groupIcon53,
+.groupIcon54,
+.groupIcon55 {
+  position: absolute;
+  height: 0.7%;
+  width: 0.54%;
+  top: 29.6%;
+  right: 51.55%;
+  bottom: 69.69%;
+  left: 47.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon52,
+.groupIcon53,
+.groupIcon54,
+.groupIcon55 {
+  height: 0.92%;
+  width: 0.1%;
+  top: 29.37%;
+  right: 51.38%;
+  bottom: 69.71%;
+  left: 48.51%;
+}
+.groupIcon53,
+.groupIcon54,
+.groupIcon55 {
+  height: 0.93%;
+  width: 0.39%;
+  top: 29.36%;
+  right: 50.94%;
+  left: 48.68%;
+}
+.groupIcon54,
+.groupIcon55 {
+  height: 0.81%;
+  width: 0.57%;
+  top: 29.48%;
+  right: 49.99%;
+  left: 49.44%;
+}
+.groupIcon55 {
+  height: 0.7%;
+  width: 0.54%;
+  top: 29.6%;
+  right: 49.39%;
+  bottom: 69.69%;
+  left: 50.06%;
+}
+.groupIcon56,
+.groupIcon57,
+.groupIcon58,
+.groupIcon59,
+.groupIcon60 {
+  position: absolute;
+  height: 0.67%;
+  width: 0.56%;
+  top: 29.62%;
+  right: 48.77%;
+  bottom: 69.71%;
+  left: 50.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon57,
+.groupIcon58,
+.groupIcon59,
+.groupIcon60 {
+  height: 0.7%;
+  width: 0.54%;
+  top: 29.6%;
+  right: 48.18%;
+  bottom: 69.69%;
+  left: 51.28%;
+}
+.groupIcon58,
+.groupIcon59,
+.groupIcon60 {
+  height: 0.92%;
+  width: 0.1%;
+  top: 29.37%;
+  right: 48.01%;
+  bottom: 69.71%;
+  left: 51.88%;
+}
+.groupIcon59,
+.groupIcon60 {
+  height: 0.7%;
+  width: 0.55%;
+  top: 29.6%;
+  right: 47.41%;
+  bottom: 69.69%;
+  left: 52.04%;
+}
+.groupIcon60 {
+  height: 0.98%;
+  right: 46.8%;
+  bottom: 69.42%;
+  left: 52.65%;
+}
+.groupIcon61,
+.groupIcon62,
+.groupIcon63,
+.groupIcon64,
+.groupIcon65,
+.groupIcon66 {
+  position: absolute;
+  height: 0.68%;
+  width: 0.86%;
+  top: 29.6%;
+  right: 45.88%;
+  bottom: 69.71%;
+  left: 53.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon62,
+.groupIcon63,
+.groupIcon64,
+.groupIcon65,
+.groupIcon66 {
+  height: 0.7%;
+  width: 0.54%;
+  right: 45.28%;
+  bottom: 69.69%;
+  left: 54.18%;
+}
+.groupIcon63,
+.groupIcon64,
+.groupIcon65,
+.groupIcon66 {
+  height: 0.68%;
+  width: 0.55%;
+  right: 44.67%;
+  bottom: 69.71%;
+  left: 54.78%;
+}
+.groupIcon64,
+.groupIcon65,
+.groupIcon66 {
+  height: 0.89%;
+  width: 0.41%;
+  top: 29.41%;
+  right: 44.2%;
+  bottom: 69.7%;
+  left: 55.39%;
+}
+.groupIcon65,
+.groupIcon66 {
+  height: 0.93%;
+  width: 0.55%;
+  top: 30.98%;
+  right: 57.88%;
+  bottom: 68.09%;
+  left: 41.57%;
+}
+.groupIcon66 {
+  height: 0.7%;
+  width: 0.54%;
+  top: 31.21%;
+  right: 57.28%;
+  left: 42.18%;
+}
+.groupIcon67,
+.groupIcon68,
+.groupIcon69,
+.groupIcon70,
+.groupIcon71,
+.groupIcon72 {
+  position: absolute;
+  height: 0.67%;
+  width: 0.56%;
+  top: 31.23%;
+  right: 56.66%;
+  bottom: 68.1%;
+  left: 42.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon68,
+.groupIcon69,
+.groupIcon70,
+.groupIcon71,
+.groupIcon72 {
+  height: 0.92%;
+  width: 0.1%;
+  top: 30.98%;
+  right: 56.49%;
+  left: 43.4%;
+}
+.groupIcon69,
+.groupIcon70,
+.groupIcon71,
+.groupIcon72 {
+  height: 0.7%;
+  width: 0.54%;
+  top: 31.21%;
+  right: 55.89%;
+  bottom: 68.09%;
+  left: 43.56%;
+}
+.groupIcon70,
+.groupIcon71,
+.groupIcon72 {
+  right: 55.29%;
+  left: 44.16%;
+}
+.groupIcon71,
+.groupIcon72 {
+  height: 0.87%;
+  width: 0.68%;
+  top: 53.82%;
+  right: 65.92%;
+  bottom: 45.31%;
+  left: 33.4%;
+}
+.groupIcon72 {
+  height: 0.86%;
+  width: 0.69%;
+  right: 65.15%;
+  bottom: 45.33%;
+  left: 34.16%;
+}
+.groupIcon73,
+.groupIcon74,
+.groupIcon75,
+.groupIcon76,
+.groupIcon77 {
+  position: absolute;
+  height: 0.87%;
+  width: 0.68%;
+  top: 55.39%;
+  right: 65.92%;
+  bottom: 43.73%;
+  left: 33.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon74,
+.groupIcon75,
+.groupIcon76,
+.groupIcon77 {
+  height: 0.86%;
+  width: 1.07%;
+  right: 64.77%;
+  bottom: 43.75%;
+  left: 34.15%;
+}
+.groupIcon75,
+.groupIcon76,
+.groupIcon77 {
+  height: 0.87%;
+  width: 0.67%;
+  right: 64.03%;
+  bottom: 43.73%;
+  left: 35.3%;
+}
+.groupIcon76,
+.groupIcon77 {
+  height: 0.86%;
+  width: 0.53%;
+  right: 63.42%;
+  bottom: 43.75%;
+  left: 36.05%;
+}
+.groupIcon77 {
+  height: 1.11%;
+  width: 0.51%;
+  top: 55.15%;
+  right: 62.84%;
+  bottom: 43.73%;
+  left: 36.65%;
+}
+.groupIcon78,
+.groupIcon79,
+.groupIcon80,
+.groupIcon81,
+.groupIcon82 {
+  position: absolute;
+  height: 0.85%;
+  width: 1.12%;
+  top: 55.41%;
+  right: 61.66%;
+  bottom: 43.75%;
+  left: 37.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon79,
+.groupIcon80,
+.groupIcon81,
+.groupIcon82 {
+  height: 0.87%;
+  width: 0.67%;
+  top: 55.39%;
+  right: 60.92%;
+  bottom: 43.73%;
+  left: 38.41%;
+}
+.groupIcon80,
+.groupIcon81,
+.groupIcon82 {
+  height: 1.11%;
+  width: 0.51%;
+  top: 55.15%;
+  right: 60.34%;
+  left: 39.15%;
+}
+.groupIcon81,
+.groupIcon82 {
+  height: 0.87%;
+  width: 0.68%;
+  top: 55.39%;
+  right: 59.59%;
+  left: 39.73%;
+}
+.groupIcon82 {
+  height: 1.15%;
+  width: 0.69%;
+  top: 55.1%;
+  right: 58.83%;
+  bottom: 43.75%;
+  left: 40.48%;
+}
+.groupIcon83,
+.groupIcon84,
+.groupIcon85,
+.utilityCreationBuysellThr1,
+.utilityCreationBuysellThr2 {
+  position: absolute;
+  height: 1.4%;
+  width: 0.96%;
+  top: 52.05%;
+  right: 66.58%;
+  bottom: 46.55%;
+  left: 32.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon84,
+.groupIcon85,
+.utilityCreationBuysellThr1,
+.utilityCreationBuysellThr2 {
+  top: 55.72%;
+  right: 42.43%;
+  bottom: 42.87%;
+  left: 56.61%;
+}
+.groupIcon85,
+.utilityCreationBuysellThr1,
+.utilityCreationBuysellThr2 {
+  top: 25.29%;
+  right: 58.19%;
+  bottom: 73.31%;
+  left: 40.85%;
+}
+.utilityCreationBuysellThr1,
+.utilityCreationBuysellThr2 {
+  height: 52.58%;
+  width: 51.36%;
+  top: 47.42%;
+  right: 36.4%;
+  bottom: 0;
+  left: 12.24%;
+  object-fit: contain;
+}
+.utilityCreationBuysellThr2 {
+  height: 50.1%;
+  width: 49.53%;
+  top: 48.28%;
+  right: 9.65%;
+  bottom: 1.62%;
+  left: 40.82%;
+}
+.mostLovedNfts {
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.depinAi {
+  color: var(--color-white);
+}
+.gamifiedDepinContainer {
+  width: 943px;
+  position: relative;
+  font-size: var(--font-size-81xl);
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--display-text-header-big);
+  text-align: center;
+  display: inline-block;
+  height: 128px;
+  flex-shrink: 0;
+  color: var(--color-dodgerblue-100);
+}
+.content1 {
+  position: absolute;
+  height: 11.06%;
+  width: 28.8%;
+  top: 2%;
+  right: 48.73%;
+  bottom: 86.95%;
+  left: 22.47%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+  font-family: var(--font-lato);
+}
+.viewAll {
+  position: absolute;
+  top: 23.26%;
+  left: 30.81%;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.groupChild2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-darkmagenta-100);
+}
+.frameChild,
+.rectangleWrapper {
+  width: 4px;
+  position: relative;
+  height: 22px;
+}
+.frameChild {
+  width: 164px;
+  background-color: var(--color-darkmagenta-200);
+  border: 1px solid var(--color-darkmagenta-100);
+  box-sizing: border-box;
+  height: 43px;
+}
+.frameItem {
+  width: 4px;
+  position: relative;
+  height: 22px;
+  object-fit: contain;
+}
+.groupParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.viewAllCta {
+  position: absolute;
+  height: 2.32%;
+  width: 5.25%;
+  top: 7.28%;
+  right: 24.27%;
+  bottom: 90.4%;
+  left: 70.48%;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.utilityCreationBuysellThr3 {
+  position: absolute;
+  height: 51.56%;
+  width: 53.99%;
+  top: 63.65%;
+  right: 22.38%;
+  bottom: -15.21%;
+  left: 23.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.exploreCreateAnd {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.exploreCreateAndSellYour1 {
+  width: 757px;
+  position: relative;
+  height: 136px;
+}
+.content2,
+.leftSide1 {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.leftSide1 {
+  position: absolute;
+  height: 6.2%;
+  width: 21.77%;
+  top: 13.11%;
+  right: 55.11%;
+  bottom: 80.69%;
+  left: 23.12%;
+  justify-content: flex-end;
+  font-size: var(--font-size-9xl);
+}
+.div1 {
+  position: absolute;
+  top: calc(50% - 3622.5px);
+  left: calc(50% - 1637.5px);
+  width: 3274.8px;
+  height: 1854.2px;
+  overflow: hidden;
+}
+.clipPathGroup3 {
+  height: 47.55%;
+  width: 31.04%;
+  top: 18.87%;
+  right: 63.99%;
+  bottom: 33.58%;
+  left: 4.96%;
+  object-fit: contain;
+}
+.clipPathGroup3,
+.clipPathGroup4,
+.maskGroupIcon6 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.maskGroupIcon6 {
+  height: 48.2%;
+  width: 40.93%;
+  top: 18.66%;
+  right: 5.88%;
+  bottom: 33.14%;
+  left: 53.19%;
+  object-fit: contain;
+}
+.clipPathGroup4 {
+  height: 48.65%;
+  width: 44.43%;
+  top: 21.31%;
+  right: 33.13%;
+  bottom: 30.04%;
+  left: 22.44%;
+}
+.questnftGames {
+  width: 866px;
+  position: relative;
+  font-size: var(--font-size-81xl);
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--display-text-header-big);
+  text-align: center;
+  display: inline-block;
+  height: 128px;
+  flex-shrink: 0;
+  color: var(--color-dodgerblue-100);
+}
+.content3,
+.groupContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+.content3 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-28xl);
+}
+.groupContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  flex-direction: row;
+  align-items: center;
+}
+.viewAllCta1 {
+  width: 172px;
+  position: relative;
+  height: 43px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  font-family: var(--display-text-header-big);
+}
+.heading,
+.leftSide2 {
+  position: absolute;
+  display: flex;
+}
+.heading {
+  top: 56px;
+  left: 98px;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-585xl);
+}
+.leftSide2 {
+  top: 284px;
+  left: 111px;
+  width: 713px;
+  height: 100px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-9xl);
+  font-family: var(--display-text-header-big);
+}
+.mentor31 {
+  position: absolute;
+  top: 313px;
+  left: 352px;
+  width: 1134px;
+  height: 1106px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.logoGooglePlaystoreSvgrepoIcon,
+.playstoreChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.playstoreChild {
+  width: 100%;
+  right: 0;
+  backdrop-filter: blur(20px);
+  border-radius: var(--br-xs);
+  background-color: rgba(126, 126, 126, 0.29);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+}
+.logoGooglePlaystoreSvgrepoIcon {
+  width: 24%;
+  right: 76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.forAndroids {
+  position: absolute;
+  height: 67.67%;
+  width: 76.2%;
+  top: 14.66%;
+  left: 23.8%;
+  display: inline-block;
+}
+.logoGooglePlaystoreSvgrepoParent {
+  position: absolute;
+  height: 60.64%;
+  width: 83.33%;
+  top: 19.7%;
+  right: 6.18%;
+  bottom: 19.66%;
+  left: 10.5%;
+}
+.appstoreChild,
+.playstore {
+  position: absolute;
+  height: 100%;
+  width: 43.48%;
+  top: 0;
+  right: 56.52%;
+  bottom: 0;
+  left: 0;
+}
+.appstoreChild {
+  width: 100%;
+  right: 0;
+  backdrop-filter: blur(20px);
+  border-radius: var(--br-xs);
+  background-color: rgba(217, 217, 217, 0.9);
+}
+.forIos {
+  position: absolute;
+  height: 70.98%;
+  width: 70.74%;
+  top: 13.16%;
+  left: 29.26%;
+  display: inline-block;
+}
+.appleLogoBlack1Icon {
+  position: absolute;
+  height: 100%;
+  width: 21.11%;
+  top: 0;
+  right: 78.89%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.appstore,
+.forIosParent {
+  position: absolute;
+  height: 57.6%;
+  width: 73.47%;
+  top: 22.73%;
+  right: 13.53%;
+  bottom: 19.67%;
+  left: 13%;
+}
+.appstore {
+  height: 100%;
+  width: 43.48%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 56.52%;
+  color: var(--color-black);
+}
+.playstoreParent {
+  position: absolute;
+  height: 18.75%;
+  width: 41.67%;
+  top: 81.25%;
+  right: 29.16%;
+  bottom: 0;
+  left: 29.17%;
+}
+.swiftBlockchainRevolution {
+  position: absolute;
+  height: 27.55%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: 80px;
+  font-weight: 500;
+  background: linear-gradient(270deg, #ff3c6a, #ffaf36 34.17%, #5991ff 60.17%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+.readyToEnergize {
+  position: absolute;
+  height: 28.97%;
+  width: 83.7%;
+  top: 34.66%;
+  left: 8.15%;
+  font-size: var(--font-size-9xl);
+  font-weight: 300;
+  display: inline-block;
+  opacity: 0.8;
+}
+.groupDiv {
+  height: 18.24%;
+  width: 67.24%;
+  top: 75.99%;
+  right: 19.84%;
+  bottom: 5.77%;
+  left: 12.92%;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-inter);
+}
+.content5,
+.div2,
+.groupDiv {
+  position: absolute;
+}
+.div2 {
+  top: calc(50% - 1677.5px);
+  left: calc(50% - 987.5px);
+  background-color: var(--color-gray-300);
+  width: 1974px;
+  height: 1924px;
+  overflow: hidden;
+  font-family: var(--font-lato);
+}
+.content5 {
+  top: 304px;
+  left: 62px;
+  width: 713px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nftCard1Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  backdrop-filter: blur(20px);
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    147.75deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0.05)
+  );
+}
+.onSale {
+  position: relative;
+  letter-spacing: 0.05em;
+  text-transform: capitalize;
+}
+.fxemojifireIcon {
+  width: 20px;
+  position: relative;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.onSaleParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.vuesaxboldethereumEthIcon {
+  width: 20px;
+  position: relative;
+  height: 20px;
+}
+.div3 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.05em;
+  text-transform: capitalize;
+}
+.content6,
+.ethParent,
+.vuesaxboldethereumEthParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.content6,
+.vuesaxboldethereumEthParent {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.vuesaxboldethereumEthParent {
+  font-size: var(--font-size-xl);
+}
+.content6 {
+  gap: var(--gap-92xl);
+}
+.placeABidCtaChild,
+.placeABidCtaInner {
+  position: absolute;
+  height: 66.67%;
+  width: 2.37%;
+  top: 16.67%;
+  right: 97.63%;
+  bottom: 16.67%;
+  left: 0;
+}
+.placeABidCtaChild {
+  width: 2.34%;
+  right: -0.01%;
+  left: 97.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.placeABidCtaItem {
+  position: absolute;
+  height: 100%;
+  width: 95.36%;
+  top: 0;
+  right: 2.28%;
+  bottom: 0;
+  left: 2.37%;
+  background-color: var(--color-dodgerblue-200);
+  border: 1px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.buyNow {
+  position: absolute;
+  height: 39%;
+  width: 22.19%;
+  top: 30%;
+  left: 39.05%;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+}
+.placeABidCta {
+  width: 338px;
+  position: relative;
+  height: 60px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.contentGroup {
+  position: absolute;
+  top: 397px;
+  left: 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.byUser {
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.05em;
+  text-transform: capitalize;
+  font-family: var(--font-lato);
+}
+.content7,
+.userDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.userDetails {
+  position: absolute;
+  top: 302px;
+  left: 34px;
+  flex-direction: row;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-6xl);
+}
+.nftPictureIcon {
+  position: absolute;
+  height: 100%;
+  width: 99.73%;
+  top: 0;
+  right: 0.27%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vectorIcon {
+  width: 17px;
+  position: relative;
+  height: 15px;
+}
+.favorites,
+.vectorContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+.vectorContainer {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-4xs);
+}
+.favorites {
+  position: absolute;
+  top: 0;
+  left: 275px;
+  backdrop-filter: blur(20px);
+  border-radius: 0 var(--br-mini) 0 var(--br-mini);
+  background: linear-gradient(
+    147.75deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0.05)
+  );
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-mini) var(--padding-xl);
+}
+.nftPic {
+  position: absolute;
+  height: 48.07%;
+  width: 94.16%;
+  top: 0.37%;
+  right: 2.79%;
+  bottom: 51.57%;
+  left: 3.05%;
+}
+.nftCard1 {
+  width: 394px;
+  position: relative;
+  height: 543px;
+}
+.nftPictureIcon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.nftPic1 {
+  position: absolute;
+  height: 48.07%;
+  width: 93.91%;
+  top: 0.37%;
+  right: 3.05%;
+  bottom: 51.57%;
+  left: 3.05%;
+}
+.hotTrendingNfts,
+.nftCards,
+.nftCards1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nftCards1 {
+  flex-direction: row;
+  gap: 20px;
+}
+.hotTrendingNfts,
+.nftCards {
+  flex-direction: column;
+}
+.hotTrendingNfts {
+  position: absolute;
+  top: 508px;
+  left: 73px;
+  width: 1695px;
+  height: 323px;
+  font-size: var(--font-size-base);
+}
+.collectiblesMarketplace {
+  width: 1157px;
+  position: relative;
+  font-size: var(--font-size-81xl);
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--display-text-header-big);
+  text-align: center;
+  display: inline-block;
+  height: 128px;
+  flex-shrink: 0;
+  color: var(--color-dodgerblue-100);
+}
+.heading1 {
+  position: absolute;
+  top: 74px;
+  left: 62px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-lato);
+}
+.contentParent {
+  position: absolute;
+  top: calc(50% + 246.5px);
+  left: calc(50% - 876.5px);
+  background-color: var(--color-gray-300);
+  width: 2054px;
+  height: 1328px;
+  overflow: hidden;
+  font-size: 40px;
+}
+.tokenoMicsAndUtility {
+  width: 866px;
+  position: relative;
+  font-size: var(--font-size-81xl);
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--display-text-header-big);
+  display: inline-block;
+  height: 128px;
+  flex-shrink: 0;
+}
+.heading2,
+.liveAuctionNfts {
+  display: flex;
+  justify-content: flex-start;
+}
+.heading2 {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-585xl);
+}
+.liveAuctionNfts {
+  position: absolute;
+  top: 236px;
+  left: 264px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.utilityCreationBuysellThr4,
+.utilityCreationBuysellThr5 {
+  position: absolute;
+  top: 352px;
+  left: 656px;
+  width: 1366px;
+  height: 768px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.utilityCreationBuysellThr5 {
+  height: 51.1%;
+  width: 60.93%;
+  top: 55.56%;
+  right: -0.98%;
+  bottom: -6.65%;
+  left: 40.05%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.utilityCreationBuysellThr6 {
+  position: absolute;
+  top: 492px;
+  left: -192px;
+  width: 1654px;
+  height: 925px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.liveAuctionNftsParent {
+  position: absolute;
+  top: calc(50% + 1297.5px);
+  left: calc(50% - 1063.5px);
+  background-color: var(--color-gray-300);
+  width: 2242px;
+  height: 1470px;
+  overflow: hidden;
+  font-family: var(--font-lato);
+}
+.buttonChild {
+  position: absolute;
+  top: calc(50% - 27.1px);
+  left: calc(50% - 92.9px);
+  box-shadow: 0 16px 30px #003861;
+  border-radius: 23.5px;
+  background: linear-gradient(65.84deg, #00c3fd, #0194fe);
+  width: 185.8px;
+  height: 54.2px;
+}
+.connectWallet1 {
+  position: absolute;
+  top: calc(50% - 10.15px);
+  left: calc(50% - 56.59px);
+  display: inline-block;
+  width: 120.7px;
+  height: 20.3px;
+}
+.button {
+  position: absolute;
+  top: calc(50% - 74.59px);
+  left: calc(50% + 417.05px);
+  width: 185.8px;
+  height: 54.2px;
+}
+.initialDemo1,
+.visualNovel1,
+.whitePapaer {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 188.5px);
+  display: inline-block;
+  width: 117px;
+  height: 20px;
+}
+.initialDemo1,
+.visualNovel1 {
+  top: calc(50% - 9.5px);
+  left: calc(50% + 97.5px);
+  width: 91px;
+}
+.visualNovel1 {
+  top: calc(50% - 10.5px);
+  left: calc(50% - 39.5px);
+  width: 101px;
+}
+.whitePapaerParent {
+  position: absolute;
+  top: calc(50% - 61px);
+  left: calc(50% - 402.9px);
+  width: 377px;
+  height: 21px;
+  color: var(--color-gray-200);
+  font-family: var(--font-abel);
+}
+.followUs {
+  position: absolute;
+  top: calc(50% - 12.41px);
+  left: calc(50% - 139px);
+  display: inline-block;
+  width: 72.6px;
+  height: 20.3px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: calc(50% - 27.1px);
+  left: calc(50% + 1.73px);
+  backdrop-filter: blur(50px);
+  border-radius: 50%;
+  background-color: var(--color-powderblue);
+  width: 51.3px;
+  height: 54.2px;
+}
+.groupIcon86 {
+  position: absolute;
+  top: calc(50% - 12.74px);
+  left: calc(50% - 52.95px);
+  width: 11.3px;
+  height: 24.6px;
+}
+.ellipseParent,
+.groupChild9 {
+  position: absolute;
+  top: calc(50% - 27.1px);
+  left: calc(50% - 117.8px);
+  width: 105.9px;
+  height: 54.2px;
+}
+.groupChild9 {
+  left: calc(50% + 5.36px);
+  backdrop-filter: blur(50px);
+  border-radius: 50%;
+  background-color: var(--color-powderblue);
+  width: 51.3px;
+}
+.groupIcon87 {
+  position: absolute;
+  top: calc(50% - 9.55px);
+  left: calc(50% - 56.6px);
+  width: 19.2px;
+  height: 20.7px;
+}
+.ellipseGroup,
+.groupChild10 {
+  position: absolute;
+  top: calc(50% - 27.1px);
+  left: calc(50% - 60.25px);
+  width: 113.2px;
+  height: 54.2px;
+}
+.groupChild10 {
+  left: calc(50% + 7.21px);
+  backdrop-filter: blur(50px);
+  border-radius: 50%;
+  background-color: var(--color-powderblue);
+  width: 51.3px;
+}
+.groupChild11 {
+  position: absolute;
+  top: calc(50% - 11.15px);
+  left: calc(50% - 58.5px);
+  width: 18.4px;
+  height: 20.8px;
+}
+.ellipseContainer,
+.followUsParent,
+.groupParent2 {
+  position: absolute;
+  top: calc(50% - 27.1px);
+  left: calc(50% + 0.84px);
+  width: 117px;
+  height: 54.2px;
+}
+.followUsParent,
+.groupParent2 {
+  left: calc(50% - 96.61px);
+  width: 235.6px;
+}
+.followUsParent {
+  top: calc(50% - 74.59px);
+  left: calc(50% + 56.07px);
+  width: 278px;
+}
+.footerChild,
+.footerItem {
+  position: absolute;
+  top: calc(50% - 165px);
+  left: calc(50% - 1026.9px);
+  border-radius: var(--br-381xl);
+  width: 2053.8px;
+  height: 330px;
+}
+.footerItem {
+  top: calc(50% + 68.94px);
+  left: calc(50% - 956.41px);
+  width: 1909.6px;
+  height: 33.9px;
+}
+.b {
+  font-family: var(--font-inter);
+}
+.container {
+  white-space: pre-wrap;
+}
+.copyright2024IncentivesI {
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.salesideaEngineai2 {
+  text-decoration: underline;
+}
+.salesideaEngineai {
+  color: inherit;
+}
+.copyright2024Container {
+  position: absolute;
+  top: calc(50% + 76px);
+  left: calc(50% - 303.9px);
+  font-size: var(--font-size-sm);
+  color: #000618;
+  display: inline-block;
+  width: 882px;
+  height: 19px;
+  font-family: var(--font-inter);
+}
+.footer {
+  position: absolute;
+  top: calc(50% + 4431.5px);
+  left: calc(50% - 965.5px);
+  width: 2053.8px;
+  height: 330px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-arial);
+}
+.picIcon {
+  position: absolute;
+  top: calc(50% - 310px);
+  left: calc(50% - 939.5px);
+  width: 1879px;
+  height: 620px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.joinWhitelist {
+  width: 819px;
+  position: relative;
+  line-height: 130px;
+  display: inline-block;
+  height: 97.3px;
+  flex-shrink: 0;
+}
+.strokeForm {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.infogmailcom {
+  position: relative;
+  line-height: 35.45px;
+  opacity: 0.7;
+}
+.arrowIcon {
+  width: 50px;
+  position: relative;
+  height: 12.5px;
+  object-fit: contain;
+}
+.infogmailcomParent,
+.subscribeBtn {
+  display: flex;
+  justify-content: flex-start;
+}
+.subscribeBtn {
+  border-radius: var(--br-mini);
+  background-color: var(--color-dodgerblue-100);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 35px var(--padding-xl);
+}
+.infogmailcomParent {
+  position: absolute;
+  top: 6.25px;
+  left: 53px;
+  flex-direction: row;
+  align-items: center;
+  gap: 360px;
+}
+.inputField {
+  width: 680px;
+  position: relative;
+  height: 96px;
+  text-align: left;
+  font-size: 24px;
+  color: #a48ea9;
+  font-family: var(--font-lato);
+}
+.content16 {
+  position: absolute;
+  top: calc(50% - 119px);
+  left: calc(50% - 385.79px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 45px;
+}
+.subscribe {
+  position: absolute;
+  top: calc(50% + 3988.5px);
+  left: calc(50% - 939.5px);
+  width: 1879px;
+  height: 620px;
+  text-align: center;
+  font-size: var(--display-text-header-big-size);
+  color: #f5fbf2;
+}
+.roadmap {
+  position: relative;
+  font-size: var(--font-size-81xl);
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--display-text-header-big);
+  text-align: center;
+}
+.groupChild12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkmagenta-100);
+  width: 4px;
+  height: 22px;
+}
+.viewAllCtaChild,
+.viewAllCtaInner {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 4px;
+  height: 22px;
+}
+.viewAllCtaChild {
+  top: 0;
+  left: 4px;
+  background-color: var(--color-darkmagenta-200);
+  border: 1px solid var(--color-darkmagenta-100);
+  box-sizing: border-box;
+  width: 164px;
+  height: 43px;
+}
+.viewAll3 {
+  position: absolute;
+  top: 10px;
+  left: 53px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.viewAllCtaItem {
+  position: absolute;
+  top: 10px;
+  left: 168px;
+  width: 4px;
+  height: 22px;
+  object-fit: contain;
+}
+.heading3,
+.joinedInfluencers {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.heading3 {
+  flex-direction: row;
+  gap: 600px;
+}
+.joinedInfluencers {
+  position: absolute;
+  top: 329px;
+  left: 470px;
+  flex-direction: column;
+}
+.utilityCreationBuysellThr7,
+.utilityCreationBuysellThr8 {
+  position: absolute;
+  top: 675px;
+  left: 252px;
+  width: 1571px;
+  height: 856px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.utilityCreationBuysellThr8 {
+  top: 1216px;
+  left: 126px;
+  width: 1241px;
+  height: 666px;
+  object-fit: cover;
+}
+.utilityCreationBuysellThr10,
+.utilityCreationBuysellThr11,
+.utilityCreationBuysellThr9 {
+  position: absolute;
+  top: 560px;
+  left: 314px;
+  width: 1089px;
+  height: 615px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.utilityCreationBuysellThr10,
+.utilityCreationBuysellThr11 {
+  top: 1143px;
+  left: 879px;
+}
+.utilityCreationBuysellThr11 {
+  top: 456px;
+  left: 910px;
+}
+.joinedInfluencersParent {
+  position: absolute;
+  top: calc(50% + 2400.5px);
+  left: calc(50% - 1279.5px);
+  background-color: var(--color-gray-300);
+  width: 1792px;
+  height: 1758px;
+  overflow: hidden;
+  font-family: var(--font-lato);
+}
+.homePage {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-black);
+  height: 9523px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--display-text-header-big);
+}
